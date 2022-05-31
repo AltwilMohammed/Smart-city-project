@@ -41,4 +41,5 @@ Project is created with:
 ![image](https://user-images.githubusercontent.com/40560478/171231866-4382ecf3-63be-464c-85ea-ed1b332b8bab.png)
 
 ## code
-* https://github.com/AltwilMohammed/Automatic-Street-light-using-8051-microcontroller/blob/main/atstreet.c
+* https://github.com/AltwilMohammed/Smart-city-project/commit/837c978f8dacfed2781322f59db03f19a036855c
+* 
