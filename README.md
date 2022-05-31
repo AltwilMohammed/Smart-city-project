@@ -6,7 +6,7 @@
 
 ## introduction 
 This project presents a design and a prototype implementation of smart city system using Proteus simulation tool to represent the hardware in addition to assembly Language as its controlling software. Our purpose of this project is to have a clear understanding of how to use Microprocessor in mini project ,how all the components combine and how it's controlled the software to perform its special task that was designed to do.
-* the project is divided into three part:
+#### the project is divided into three part:
 - Smart traffic system 
 - Street light system 
 - Parking system 
